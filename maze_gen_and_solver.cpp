@@ -9,8 +9,8 @@
 const int screen_width = 400;
 const int screen_height = 400;
 
-const int rows = 10;
-const int cols = 10;
+const int rows = 30;
+const int cols = 30;
 
 bool m_previous = false; // keypress state FOR M aze generation
 bool s_previous = false; // keypress state for S olving maze
