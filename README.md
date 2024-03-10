@@ -1,7 +1,7 @@
 # Maze Solver Using A* Algorithm
 
 This project implements a maze solver using the A* algorithm with visualization using SFML (Simple and Fast Multimedia Library).
-It generates a maze using randomized Prim's algorithm and then finds the optimal path from the start to the end of the maze using the A* algorithm.
+It generates a maze using DFS and then finds the optimal path from the start to the end of the maze using the A* algorithm.
 
 # Controls
 
